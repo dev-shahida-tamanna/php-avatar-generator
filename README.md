@@ -20,4 +20,4 @@ A lightweight PHP application that integrates with the DiceBear API to generate 
 4. Access the application in your browser at `http://localhost/avatar-generator/`.
 
 ## Application Preview
-![Application Screenshot](screenshot.png)
+![Application Screenshot](output_screenshot.png)
